@@ -2,7 +2,7 @@
 
 This repository contains small beginner-friendly Python projects to practice basic programming concepts.
 
----
+
 
 ##  Projects Included
 
@@ -14,13 +14,13 @@ This repository contains small beginner-friendly Python projects to practice bas
    - Generates strong and secure passwords.  
    - Includes options for letters, numbers, and special characters.  
 
----
+
 
 ## 🛠️ Tech Used
 - Python 3.x  
 - Built-in libraries (`random`)  
 
----
+
 
 
 
